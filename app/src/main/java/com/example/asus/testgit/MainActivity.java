@@ -12,6 +12,5 @@ public class MainActivity extends AppCompatActivity {
         //准备提一次提交注释
         //这是我的宝
         //这是我的宝宝宝宝阿斯顿发送到发送到发送到发送到发送到
-        //准备提一次提交注释
     }
 }
