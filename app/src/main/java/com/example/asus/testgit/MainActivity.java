@@ -17,8 +17,12 @@ public class MainActivity extends AppCompatActivity {
 
         getWhat();
 
-        getNothing();
 
+
+
+
+
+        getNothing();//我在这里是最正确的确定
 
     }
 
