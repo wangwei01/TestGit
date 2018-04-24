@@ -17,32 +17,15 @@ public class MainActivity extends AppCompatActivity {
 
         getWhat();
 
-
-
-
-
-
         getNothing();//我在这里是最正确的确定
-
     }
 
     private void getNothing() {
         //第二次修改我要改东西啦
         //第三次修改东西
-        //这是我第四次修改东西了
     }
 
     private void getWhat() {
-
-
-        //我在test上修改了文件
-
-        //我在test上第二次修改了这个文件
-
-        //我在master上修改了东西
-
-        //我在master上修改了这个问题
-
 
     }
 
